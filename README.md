@@ -10,11 +10,11 @@ NEGÓCIOS`
 O projeto ConnectDom é um projeto criado com o intuito de projetar uma aplicação, com o objetivo de melhorar, otimizar e expandir a disponibilisação e a execução de serviços domésticos em toda a região metropolitana de Belo Horizonte.
 ## Integrantes
 
-Benjamim Oliveira
-Daniel de Paula Godinho
-João Gabriel Gonçalves Pires
-Mateus Guimarães Figueiredo Ferreira de Souza
-Pedro Henrique Glicerio Simoes
+Benjamim Oliveira,
+Daniel de Paula Godinho,
+João Gabriel Gonçalves Pires,
+Mateus Guimarães Figueiredo Ferreira de Souza,
+Pedro Henrique Glicerio Simoes,
 Samuel Santos Maciel
 
 ## Orientador
