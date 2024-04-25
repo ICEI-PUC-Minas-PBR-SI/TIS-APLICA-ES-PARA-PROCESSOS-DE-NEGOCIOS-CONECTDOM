@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# ConnectDom
 
-`CURSO`
+`Análise em desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`TRABALHO INTERDISCIPLINAR: APLICAÇÕES PARA PROCESSOS DE
+NEGÓCIOS`
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+`Segundo semestre`
+O projeto ConnectDom é um projeto criado com o intuito de projetar uma aplicação, com o objetivo de melhorar, otimizar e expandir a disponibilisação e a execução de serviços domésticos em toda a região metropolitana de Belo Horizonte.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Benjamim Oliveira
+Daniel de Paula Godinho
+João Gabriel Gonçalves Pires
+Mateus Guimarães Figueiredo Ferreira de Souza
+Pedro Henrique Glicerio Simoes
+Samuel Santos Maciel
 
 ## Orientador
 
-* Nome completo do professor 1
+Cleia Marcia Gomes Amaral 
 
 ## Instruções de utilização
 
