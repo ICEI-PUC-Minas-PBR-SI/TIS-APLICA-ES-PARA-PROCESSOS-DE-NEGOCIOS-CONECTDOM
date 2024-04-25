@@ -1,7 +1,17 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-
+Nos últimos tempos, com a mudança para um estilo de vida mais sedentário, muitas pessoas
+têm buscado formas de cuidar de suas casas de maneira eficiente e conveniente. No entanto,
+encontrar serviços domésticos adequados nem sempre é fácil. A maioria das opções
+disponíveis hoje em dia envolve pesquisar em jornais, pedir recomendações ou confiar em
+cartazes na vizinhança. Isso pode ser complicado para quem não tem acesso a esses recursos
+ou para quem simplesmente deseja uma solução mais rápida e moderna. É nesse contexto que
+surge o projeto ConnectDom. Nosso objetivo é criar um aplicativo que simplifica o processo
+de contratação de serviços domésticos, tornando-o mais acessível e conveniente para todos.
+Queremos proporcionar uma plataforma onde clientes e profissionais possam se conectar de
+forma fácil e segura, facilitando a vida de ambos os lados. Com o ConnectDom, esperamos
+transformar a maneira como as pessoas encontram e contratam serviços domésticos, criando
+uma comunidade onde todos possam se beneficiar.
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
@@ -16,21 +26,23 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral do projeto ConnectDom é desenvolver e implementar um aplicativo inovador
+que simplifique e agilize a contratação de serviços domésticos, promovendo relações de
+trabalho mais justas e transparentes. Permitir a divulgação de quem deseja realizar os
+trabalhos de forma 100% online, além da capacidade de escolher os trabalhos, as condições e
+a capacidade de montar o próprio cronograma. Para os clientes, esperamos que eles tenham
+2
+flexibilidade de poder contratar qualquer serviço no momento em que quiserem, com as
+condições desejadas e no tempo desejado.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O projeto ConnectDom visa simplificar a contratação de serviços domésticos, enfrentando
+desafios nas relações trabalhistas. Permitindo essa autonomia de ambos os lados, promovemos
+a oportunidade de trabalho para aqueles que estão dispostos, mas também as pessoas
+necessitadas desses serviços têm acesso a um serviço de maneira que mais apeteça a seus
+gostos e objetivos. Todas essas características contribuem para a modernização e
+automatização do processo desses trabalhadores, beneficiando o cliente por consequência.
 
 ## Público-Alvo
 
