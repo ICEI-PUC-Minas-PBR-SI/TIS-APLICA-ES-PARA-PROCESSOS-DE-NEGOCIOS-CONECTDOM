@@ -6,6 +6,7 @@
 NEGÓCIOS`
 
 `Segundo semestre`
+
 O projeto ConnectDom é um projeto criado com o intuito de projetar uma aplicação, com o objetivo de melhorar, otimizar e expandir a disponibilisação e a execução de serviços domésticos em toda a região metropolitana de Belo Horizonte.
 ## Integrantes
 
